@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "127.0.0.1",
+            "database": "quickticket",
+            "username": "postgres",
+            "password": "Data4!Base8"
+        }
+    ]
+}
